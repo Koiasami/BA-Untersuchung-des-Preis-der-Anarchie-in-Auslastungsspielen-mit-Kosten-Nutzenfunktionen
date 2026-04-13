@@ -1,7 +1,7 @@
 # BA-Untersuchung-des-Preis-der-Anarchie-in-Auslastungsspielen-mit-Kosten-Nutzenfunktionen
 Programm Bachelorarbeit: Untersuchung des Preis der Anarchie in Auslastungsspielen mit Kosten/Nutzenfunktionen
 
-Graphen: es gibt 19 verschiedene Graphen-Klassen zur Auswahl. src\games 
+Graphen: es gibt 19 verschiedene Graphen-Klassen zur Auswahl. src\games //
 Main: In der Main sucht man einen aus, Bsp.: GameTemplate template = new Bipartit5();
 Dann kommentiert man aus/ein je nachdem, ob man Cost oder Utility berechnen moechte und startet. Bei bedarf kann man noch Spieleranzahl/thresholds/Anzahl Spiele anpassen. Jeweils in der Main kommentiert. 
 // ============================
